@@ -1,0 +1,10 @@
+35202-1234567-1,Ahmed Ali,0300-1234567,House 12 Street 5 F-10 Islamabad
+35202-2345678-2,Fatima Khan,0301-2345678,Apartment 3B Bahria Town Islamabad
+35202-3456789-3,Hassan Malik,0302-3456789,Villa 7 DHA Phase 2 Islamabad
+35202-4567890-4,Ayesha Raza,0303-4567890,House 45 G-11 Islamabad
+35202-5678901-5,Bilal Ahmed,0304-5678901,Flat 2A PWD Housing Society Islamabad
+35202-6789012-6,Sara Noor,0305-6789012,House 89 I-8 Islamabad
+35202-7890123-7,Usman Tariq,0306-7890123,Bungalow 15 E-11 Islamabad
+35202-8901234-8,Zainab Hussain,0307-8901234,Apartment 5C Naval Anchorage Islamabad
+35202-9012345-9,Kamran Shah,0308-9012345,House 23 F-7 Islamabad
+35202-0123456-0,Maryam Siddiqui,0309-0123456,Villa 11 Gulberg Greens Islamabad

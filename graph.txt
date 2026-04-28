@@ -1,0 +1,10 @@
+0,Store Location Blue Area
+1,F-10 Markaz
+2,G-11 Markaz
+3,Bahria Town
+4,DHA Phase 2
+5,I-8 Markaz
+6,PWD Housing Society
+7,Naval Anchorage
+8,Gulberg Greens
+9,F-7 Markaz
